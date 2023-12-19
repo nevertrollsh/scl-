@@ -26,6 +26,6 @@ make("snart",5000,-182)
 This function returns a random text from the array you provide the function with.
 - Usage Example(s):
 ```lua
-Game.ShowNotification(r.t({"Hello.","Whats Up!","What ya doin?","How are you doing today?"})
+Game.ShowNotification(rt({"Hello.","Whats Up!","What ya doin?","How are you doing today?"})
 -- This will print one of the options from the array.
 ```
