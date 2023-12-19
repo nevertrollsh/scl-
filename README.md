@@ -10,6 +10,7 @@ These are the functions in the original Swordigo files, but renamed to shorter n
 | Scene.Find | sf |
 | Game.ShowNotification | t |
 | Vector3.New | v3 |
+| Math.RandomInt | ri |
 
 ## New Functions
 These are new functions that function differently.
@@ -21,7 +22,7 @@ make("snart",5000,-182)
 -- Make a snart spawn at x:5000 and y:-182.
 ```
 
-### `r.t(array)`
+### `rt(array)`
 This function returns a random text from the array you provide the function with.
 - Usage Example(s):
 ```lua
