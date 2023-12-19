@@ -18,7 +18,7 @@ These are new functions that function differently.
 - Usage Example(s):
 ```lua
 make("snart",5000,-182)
---- Make a snart spawn at x:5000 and y:-182.
+-- Make a snart spawn at x:5000 and y:-182.
 ```
 
 ### `r.t(array)`
@@ -26,5 +26,5 @@ This function returns a random text from the array you provide the function with
 - Usage Example(s):
 ```lua
 Game.ShowNotification(r.t({"Hello.","Whats Up!","What ya doin?","How are you doing today?"})
-This will print one of the options from the array.
+-- This will print one of the options from the array.
 ```
