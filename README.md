@@ -1,6 +1,9 @@
 # Scl+
 Scl+ is an API for Swordigo Modders. It includes various functions and it allows you to shorten your code easily.
 
+# How to install?
+To install this package/library, head to releases and download the latest release. Find the file `programs.scl` and replace swordigo's original `programs.scl` file with the `programs.scl` you've downloaded.
+
 # Functions
 ## Renamed Functions
 These are the functions in the original Swordigo files, but renamed to shorter names to shorten the code.
